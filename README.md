@@ -27,18 +27,18 @@ view list
   
 create
 - index.php?r=profile/create-profile, method : POST
-    name         > string
-    email        > email
-    phone_number > integer
-    address      > string
+    name         > string;
+    email        > email;
+    phone_number > integer;
+    address      > string;
   
 Update
 - index.php?r=profile/create-profile, method : POST
-    id           > integer
-    name         > string
-    email        > email
-    phone_number > integer
-    address      > string
+    id           > integer;
+    name         > string;
+    email        > email;
+    phone_number > integer;
+    address      > string;
   
 delete
 - index.php?r=profile/delete-profile, method : POST
